@@ -1,0 +1,6 @@
+pandas #
+numpy   #
+matplotlib #
+seborne #
+joblib #.pkl file
+mlflow # model parameter metrics tracking tool
